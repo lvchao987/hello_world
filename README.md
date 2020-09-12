@@ -2,4 +2,4 @@
 
 my first repository on github
 
-l love:coffee,pizza:, and:dancer
+l love：coffee,pizza:, and：dancer
